@@ -20,12 +20,35 @@ Powered by modern web technologies, this tool seamlessly processes financial dat
 
 ## ✨ Key Features
 
-- **Advanced Exploratory Data Analysis (EDA)**: Dive deep into Nifty 50 constituents, sector allocations, and statistical distributions.
-- **Comparative & Fundamental Analysis**: Evaluate individual stocks against sector benchmarks using key financial metrics.
-- **Dynamic Charting Engine**: Interactive, real-time charts powered by Recharts and D3.js.
-- **Strategy Builder & Backtesting**: Design, backtest, and evaluate quantitative trading strategies directly in the browser.
-- **Risk Assessment (D3 Risk Scatter)**: Visualize risk vs. reward metrics interactively.
-- **Market Forecasting**: Predictive modeling insights to anticipate market movements.
+### 1. Fundamental Analysis
+Evaluate individual stocks against sector benchmarks using key financial metrics.
+<p align="center">
+  <img src="assets/fundamental.png" alt="Fundamental Analysis" width="800"/>
+</p>
+
+### 2. Strategy Builder & Backtesting
+Design, backtest, and evaluate quantitative trading strategies directly in the browser.
+<p align="center">
+  <img src="assets/strategy.png" alt="Strategy Builder" width="800"/>
+</p>
+
+### 3. Portfolio Tools & Risk Assessment
+Visualize risk vs. reward and allocate sectors dynamically.
+<p align="center">
+  <img src="assets/portfolio.png" alt="Portfolio Tools" width="800"/>
+</p>
+
+### 4. Market Forecasting
+Predictive modeling insights and AI recommendations to anticipate market movements.
+<p align="center">
+  <img src="assets/forecasting.png" alt="Forecasting" width="800"/>
+</p>
+
+### 5. Comparative Analysis
+Compare short-term opportunities and model growth projections across multiple Nifty 50 stocks.
+<p align="center">
+  <img src="assets/comparison.png" alt="Comparison" width="800"/>
+</p>
 
 ## 🛠️ Technology Stack
 
