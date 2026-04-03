@@ -22,7 +22,7 @@ Powered by modern web technologies, this tool seamlessly processes financial dat
 ### 1. Fundamental Analysis
 Evaluate individual stocks against sector benchmarks using key financial metrics.
 <p align="center">
-  [INSERT_YOUR_FUNDAMENTAL_IMAGE_HERE]
+  "C:\Users\kisho\OneDrive\Documents\Desktop\EDA\Screenshot 2025-12-14 131519 - Copy - Copy.png"
 </p>
 
 ### 2. Strategy Builder & Backtesting
