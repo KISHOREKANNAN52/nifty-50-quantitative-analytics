@@ -4,7 +4,7 @@
 
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    "C:\Users\kisho\OneDrive\Documents\Desktop\EDA\Screenshot 2025-12-14 131519 - Copy (2).png"
     <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Recharts-22B24C?style=for-the-badge&logo=React&logoColor=white" alt="Recharts" />
