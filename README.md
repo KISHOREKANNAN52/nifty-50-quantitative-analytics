@@ -1,25 +1,52 @@
 <div align="center">
+  <h1>📈 Nifty 50 Quantitative Analytics</h1>
+  <p>A Professional Dashboard for Advanced Financial Data Exploration and Strategy Backtesting</p>
+
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Recharts-22B24C?style=for-the-badge&logo=React&logoColor=white" alt="Recharts" />
+  </p>
+</div>
+
+## 📖 Overview
+
+The **Nifty 50 Quantitative Analytics** dashboard is a high-performance web application tailored for quantitative analysts, traders, and data enthusiasts. It provides an institutional-grade interface to analyze the Nifty 50 index using advanced data visualization, technical analysis, and exploratory data techniques.
+
+Powered by modern web technologies, this tool seamlessly processes financial data and provides actionable insights.
+
+## ✨ Key Features
+
+### 1. Fundamental Analysis
+Evaluate individual stocks against sector benchmarks using key financial metrics.
+<p align="center">
+  [INSERT_YOUR_FUNDAMENTAL_IMAGE_HERE]
+</p>
+
+### 2. Strategy Builder & Backtesting
 Design, backtest, and evaluate quantitative trading strategies directly in the browser.
 <p align="center">
-  <img src="assets/strategy.png" alt="Strategy Builder" width="800"/>
+  [INSERT_YOUR_STRATEGY_IMAGE_HERE]
 </p>
 
 ### 3. Portfolio Tools & Risk Assessment
 Visualize risk vs. reward and allocate sectors dynamically.
 <p align="center">
-  <img src="assets/portfolio.png" alt="Portfolio Tools" width="800"/>
+  [INSERT_YOUR_PORTFOLIO_IMAGE_HERE]
 </p>
 
 ### 4. Market Forecasting
 Predictive modeling insights and AI recommendations to anticipate market movements.
 <p align="center">
-  <img src="assets/forecasting.png" alt="Forecasting" width="800"/>
+  [INSERT_YOUR_FORECASTING_IMAGE_HERE]
 </p>
 
 ### 5. Comparative Analysis
 Compare short-term opportunities and model growth projections across multiple Nifty 50 stocks.
 <p align="center">
-  <img src="assets/comparison.png" alt="Comparison" width="800"/>
+  [INSERT_YOUR_COMPARISON_IMAGE_HERE]
 </p>
 
 ## 🛠️ Technology Stack
@@ -69,4 +96,4 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
 This project is optimized for deployment on Vercel or Netlify. Simply connect your GitHub repository to either platform for a free, instantaneous launch!
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/KISHOREKANNAN52/nifty-50-quantitative-analytics/issues).       i need to add images in this 
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/KISHOREKANNAN52/nifty-50-quantitative-analytics/issues).
