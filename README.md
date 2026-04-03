@@ -22,31 +22,31 @@ Powered by modern web technologies, this tool seamlessly processes financial dat
 ### 1. Fundamental Analysis
 Evaluate individual stocks against sector benchmarks using key financial metrics.
 <p align="center">
-  "C:\Users\kisho\OneDrive\Documents\Desktop\EDA\Screenshot 2025-12-14 131519 - Copy - Copy.png"
+  
 </p>
 
 ### 2. Strategy Builder & Backtesting
 Design, backtest, and evaluate quantitative trading strategies directly in the browser.
 <p align="center">
-  [INSERT_YOUR_STRATEGY_IMAGE_HERE]
+  
 </p>
 
 ### 3. Portfolio Tools & Risk Assessment
 Visualize risk vs. reward and allocate sectors dynamically.
 <p align="center">
-  [INSERT_YOUR_PORTFOLIO_IMAGE_HERE]
+  
 </p>
 
 ### 4. Market Forecasting
 Predictive modeling insights and AI recommendations to anticipate market movements.
 <p align="center">
-  [INSERT_YOUR_FORECASTING_IMAGE_HERE]
+  
 </p>
 
 ### 5. Comparative Analysis
 Compare short-term opportunities and model growth projections across multiple Nifty 50 stocks.
 <p align="center">
-  [INSERT_YOUR_COMPARISON_IMAGE_HERE]
+ 
 </p>
 
 ## 🛠️ Technology Stack
