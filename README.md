@@ -14,7 +14,7 @@
 "C:\Users\kisho\OneDrive\Documents\Desktop\EDA\Screenshot 2025-12-14 131519 - Copy - Copy.png"
 
 ## 📖 Overview
-
+"C:\Users\kisho\OneDrive\Documents\Desktop\EDA\Screenshot 2025-12-14 131519 - Copy - Copy.png"
 The **Nifty 50 Quantitative Analytics** dashboard is a high-performance web application tailored for quantitative analysts, traders, and data enthusiasts. It provides an institutional-grade interface to analyze the Nifty 50 index using advanced data visualization, technical analysis, and exploratory data techniques.
 
 Powered by modern web technologies, this tool seamlessly processes financial data and provides actionable insights.
