@@ -1,0 +1,5 @@
+{
+  "name": "Nifty 50 Quantitative Analytics",
+  "description": "Professional-grade Exploratory Data Analysis (EDA) dashboard for Nifty 50 companies featuring Correlation Matrices, Drawdown Analysis, and Volatility Clustering.",
+  "requestFramePermissions": []
+}
