@@ -1,6 +1,9 @@
 
-live demo >>> https://nifity50.vercel.app/
+
 <div align="center">
+
+<h2>live demo >>> https://nifity50.vercel.app/</h2>
+
   <h1>📈 Nifty 50 Quantitative Analytics</h1>
   <p>A Professional Dashboard for Advanced Financial Data Exploration and Strategy Backtesting</p>
 
