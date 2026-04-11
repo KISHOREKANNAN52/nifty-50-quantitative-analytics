@@ -1,3 +1,5 @@
+
+live demo >>> https://vercel.com/kishorekannan52s-projects/nifty-50-quantitative-analytics/8vJB5tKuRQiwAkaUArR4oqD1Z6hC
 <div align="center">
   <h1>📈 Nifty 50 Quantitative Analytics</h1>
   <p>A Professional Dashboard for Advanced Financial Data Exploration and Strategy Backtesting</p>
